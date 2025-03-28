@@ -30,6 +30,8 @@ const hook: Hook<'init'> = async function (_opts) {
 
         return originalFetch(url, optionsWithDispatcher);
       };
+
+      console.info('Using SOCKS proxy:', process.env.SOCKS_PROXY)
     }
   }
 };
