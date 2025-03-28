@@ -57,6 +57,9 @@
       "hello": {
         "description": "Say hello to the world and others"
       }
+    },
+    "hooks": {
+      "init": "./dist/hooks/init/socks-proxy"
     }
   },
   "repository": "meltedice/backlog-exporter-socks-plugin",
