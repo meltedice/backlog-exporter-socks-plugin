@@ -1,7 +1,7 @@
 {
   "name": "backlog-exporter-socks-plugin",
   "description": "Adding SOCKS proxy support to the backlog-exporter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "ice",
   "bin": {
     "backlog-exporter-socks-plugin": "./bin/run.js"
