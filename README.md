@@ -7,12 +7,10 @@ A plugin that adds SOCKS proxy support to the [backlog-exporter](https://github.
 [![Version](https://img.shields.io/npm/v/backlog-exporter-socks-plugin.svg)](https://npmjs.org/package/backlog-exporter-socks-plugin)
 [![Downloads/week](https://img.shields.io/npm/dw/backlog-exporter-socks-plugin.svg)](https://npmjs.org/package/backlog-exporter-socks-plugin)
 
-<!-- toc -->
 * [Usage](#usage)
 * [Commands](#commands)
-<!-- tocstop -->
+
 # Usage
-<!-- usage -->
 ```sh-session
 $ npx backlog-exporter@latest plugins install backlog-exporter-socks-plugin
 $ npx backlog-exporter@latest plugins
@@ -25,7 +23,6 @@ See backlog-exporter's usage on its [site](https://github.com/ShuntaToda/backlog
 
 <!-- usagestop -->
 # Commands
-<!-- commands -->
 * [`npx backlog-exporter@latest socks-proxy`](#backlog-exporter-socks-proxy-command)
 
 ## `npx backlog-exporter@latest socks-proxy`
